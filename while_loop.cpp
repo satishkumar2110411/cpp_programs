@@ -6,7 +6,7 @@ int main(){
     while(index <= 10){
         cout << index*2 << endl;
         index ++;
-    }
+    } 
 
     return 0;
 }
