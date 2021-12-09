@@ -14,5 +14,9 @@ int main(){
         cout << "Student is a short female" <<endl;
     }
 
+    int time = 18;
+    string result;
+    result = (time<18)?"Good morning":"Good evening";
+    cout << result;
     return 0;
 }
