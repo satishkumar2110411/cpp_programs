@@ -116,7 +116,7 @@ int main(){
             int len;
             cout << "Enter the number of elements in the series: ";
             cin >> len;
-            int list[len] = {0,0,0,0,0,0,0};
+            int list[] = {0,0,0,0,0,0,0};
             for(int i=1;i<len;i++){
                 int element;
                 cout << "Enter element: ";
