@@ -21,6 +21,5 @@ int main(){
     cout << floor(4.8) <<endl;
     cout << fmax(3,10) <<endl;
     cout << fmin(3,10) <<endl;
-
     return 0;
 }

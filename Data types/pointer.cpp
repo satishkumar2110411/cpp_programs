@@ -18,6 +18,7 @@ int main(){
     string *pCollege = &college;
     double *pYear = &year;
 
-    cout << pAge;
+    cout << pAge << endl;
+    cout << *pAge;
     return 0;
 }
